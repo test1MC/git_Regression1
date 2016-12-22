@@ -3,13 +3,13 @@
   Version="1">
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/A_Getting Starteda/Getting Started.htm">
+    Link="/Content/B_Links and Lists/A_Getting Starteda/Getting Started.htm">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Getting Starteda/Basic Steps.htm" />
+      Link="/Content/B_Links and Lists/A_Getting Starteda/Basic Steps.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/A_Getting Starteda/Whats New.htm" />
+      Link="/Content/B_Links and Lists/A_Getting Starteda/Whats New.htm" />
   </TocEntry>
   <TocEntry
     Title="[%=System.LinkedTitle%]"
